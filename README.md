@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barisacdr&show_icons=true&locale=en" alt="barisacdr" /></p>
 
-<div align="center">
+<div align="right">
   <img align="bottom" alt="GIF" src="https://media.giphy.com/media/APQ5D1xBPCaE8/giphy.gif" width="450" height="240" />
 </div>
