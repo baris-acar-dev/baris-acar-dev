@@ -1,5 +1,5 @@
 <div align="center">
- <img align="center" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="240" />
+ <img align="center" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Baris</h1>
