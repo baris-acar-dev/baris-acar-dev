@@ -3,11 +3,14 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Baris</h1>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barisacdr" alt="barisacdr" /></a> </p>
 
-- 🔭 I’m currently working on a **portfolio website, a forecast app, a mini-game**
+<h2 align="center">I'm a second year Computer Science student at Eskisehir Technical University. I'm interested in many fields. Such as Front-end Development, Game Development, Machine Learning and Mobile Programming and I'm currently trying to improve at Front-end.</h2>
 
-- 🌱 I’m currently learning **Pyhton, Unity, Angular**
+- 🔭 I’m currently working on a **a mini-game and a website**
+
+- 🌱 I’m currently learning **Pyhton, Unity, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
