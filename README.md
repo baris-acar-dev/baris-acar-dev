@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a mini-game and a website**
 
-- 🌱 I’m currently learning **Pyhton, Unity, React**
+- 🌱 I’m currently learning **JavaScript, Pyhton, Unity, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
