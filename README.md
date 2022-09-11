@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Baris</h1>
 
-<h2 align="center">I'm a second year Computer Science student at Eskisehir Technical University. I'm interested in many fields. Such as Front-end Development, Game Development, Machine Learning and Mobile Programming and I'm currently trying to improve at Front-end.</h2>
+<h2 align="center">I'm a third year Computer Science student at Eskisehir Technical University. I'm interested in many fields. Such as Front-end Development, Game Development, Machine Learning and Mobile Programming and I'm currently trying to improve at Front-end.</h2>
 
-- 🔭 I’m currently working on **a mini-game and a website**
+- 🔭 I’m currently working on **mini-games and a website**
 
-- 🌱 I’m currently learning **JavaScript, Pyhton**
+- 🌱 I’m currently learning **JavaScript, Pyhton, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
