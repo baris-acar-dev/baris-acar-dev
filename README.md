@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **React, Pyhton, Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
