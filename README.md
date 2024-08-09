@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Baris</h1>
 
-<h2 align="center">I'm a Computer Engineering graduate from Eskisehir Technical University. I'm passionate about various fields including AI, Generative AI, RAG methods, Full Stack Development, Game Development, and Mobile Programming.</h2>
+<h2 align="center">I'm a Computer Engineering graduate from Eskisehir Technical University. I'm passionate about various fields including AI, Generative AI, Full Stack Development.</h2>
 
 - 🔭 I’m currently working on **AI projects and a personal portfolio**
 
