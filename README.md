@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **AI projects and a personal portfolio**
 
-- 💼 I’m currently an **AI Developer Intern at Arena**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/barishacar" target="blank"><img align="center" src="https://www.svgrepo.com/show/447416/linkedin.svg" target="_blank" alt="barış-acar-a47ba3204" height="30" width="40" /></a>
